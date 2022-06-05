@@ -3,3 +3,6 @@ First, I save the changes of this file
 Second, I add this to the staging area
 Third, I commit this to the git reository (my local disk)
 Fourth, I push the commited file (this one) from my repository area to the GitHub
+
+Note: when this file is in the modifying area, "my branch" is up to date
+when this file enters the staging area, "my branch" is still up to date.
