@@ -1,0 +1,5 @@
+this is another practice to familiarize myself with the workflow
+
+modified add to staged commit to git local push to GitHub
+
+only when the change is in git local, my branch is some # ahead of the origin file  
