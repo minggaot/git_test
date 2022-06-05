@@ -1,0 +1,5 @@
+Let's see if this works. 
+First, I save the changes of this file
+Second, I add this to the staging area
+Third, I commit this to the git reository (my local disk)
+Fourth, I push the commited file (this one) from my repository area to the GitHub
